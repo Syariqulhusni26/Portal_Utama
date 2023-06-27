@@ -115,8 +115,17 @@ footer {
 
     /* akhir Footer */
 
- i .fa-brands {
-    width: 500px;
- }
+.fa-solid {
+
+    font-size: 20px;  
+}
+
+ul li .fa-brands {
+
+    font-size: 50px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 
 
